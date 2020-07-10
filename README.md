@@ -4,7 +4,7 @@ Data Structures and Algorithms Semester Project
 ### Introduction:
 Spending Tracker is basically an application which keeps record of the daily Income and Expenses of the user. It helps the user to maintains his daily budget and saves money by keeping an eye on his spending.
 
-### OOP Concepts Used:
+### Programming Concepts Used:
 1.	Linked Lists.
 2.	Dynamic Memory Allocation.
 3.	Traversing Linked Lists.
