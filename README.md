@@ -25,8 +25,6 @@ Spending Tracker is basically an application which keeps record of the daily Inc
 * Displays Transactions List according to user’s choice as last 7 Days, last Month or Yearly.
 * Best and most important feature is that it can be used on a Public PC where each user has its own USERNAME and PASSWORD and has its own separate file which can’t be accessed without password. 
 
-
-
 ![](images/img1.png)
 
 ![](images/img2.png)
