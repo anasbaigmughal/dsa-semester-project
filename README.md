@@ -15,6 +15,7 @@ Spending Tracker is basically an application which keeps record of the daily Inc
 8.	Functions.
 9.	Strings.
 
+
 ### Application Features:
 * Secure Sign Up and Log In; completely secure Sign up with storing user credentials in Binary File Format which is unreadable by human. No duplication in Usernames.
 * Text File Report Generation which user can use for any purpose like printing or storing as backup.
